@@ -1,0 +1,1 @@
+Building a pure Javascript, CSS and HTML Calculator...  Feel free if you want to contribute to this repository.
